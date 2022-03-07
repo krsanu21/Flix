@@ -41,7 +41,7 @@ Flix shows the latest movies currently playing in theaters. The app utilizes the
 
 
 
-<img src="WalkThrough_Part2.gif" width=250><br>
+<img src="WalkThrough1.gif" width=250><br>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
@@ -76,7 +76,7 @@ Describe any challenges encountered while building the app.
 
 
 #### BONUS
-- [] (2pts) Views should be responsive for both landscape/portrait mode.
+- [ ] (2pts) Views should be responsive for both landscape/portrait mode.
 - [x] (1pt) In portrait mode, the poster image, title, and movie overview is shown.
 - [ ] (1pt) In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
 
@@ -90,10 +90,8 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 #### Potrait Mode
-<img src="WalkThrough.gif" width=250><br>
-#### Landscape Mode
-<img src="WalkThrough_Landscape.gif" height=290 width=500><br>
-GIFs created with [LiceCap](http://www.cockos.com/licecap/).
+<img src="FlixterApp.gif" width=250><br>
+
 
 
 
